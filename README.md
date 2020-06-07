@@ -1,0 +1,1 @@
+docker build -t hvlive/demo-nginx-spa .
